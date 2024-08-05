@@ -1,3 +1,5 @@
+package designmode.Producer_Consumer_Mode;
+
 /**
  * @author Zonda
  * @version 1.0
@@ -6,7 +8,7 @@
  **/
 public class Shop {
     /**
-     * 商店类（Shop）:定义一个成员变量，表示第几个面包，提供生产面包和消费面包的操作；
+     * 商店类（designmode.Producer_Consumer_Mode.Shop）:定义一个成员变量，表示第几个面包，提供生产面包和消费面包的操作；
      */
         private int bread = 0;
         /**
